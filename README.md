@@ -36,7 +36,9 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- 
+ <img width="1917" height="916" alt="Screenshot 2026-11-18 190249" src="https://github.com/user-attachments/assets/24d308b5-eb82-4764-b058-f30b8aa45849" />
+<img width="1917" height="962" alt="Screenshot 2026-11-18 190546" src="https://github.com/user-attachments/assets/e442ff30-93ed-469e-b914-068591774b5a" />
+
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
